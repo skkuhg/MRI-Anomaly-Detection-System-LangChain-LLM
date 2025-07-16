@@ -27,7 +27,7 @@ An AI-powered system for MRI anomaly detection using LangChain, OpenAI GPT-4o-mi
 1. Clone this repository:
 ```bash
 git clone https://github.com/skkuhg/MRI-Anomaly-Detection-System-LangChain-LLM.git
-cd mri-anomaly-detection
+cd MRI-Anomaly-Detection-System-LangChain-LLM
 ```
 
 2. Install required packages:
